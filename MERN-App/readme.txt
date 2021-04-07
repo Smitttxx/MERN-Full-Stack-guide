@@ -2,6 +2,14 @@ MERN
 
 Course provided by ACADEMIND - https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide/
 
+Official React Docs: https://reactjs.org/docs/getting-started.html
+
+Official Node.js Docs: https://nodejs.org/en/docs/
+
+Official Express.js Docs: https://expressjs.com/
+
+Official MongoDB Docs: https://docs.mongodb.com/
+
 M - Mongo DB - NOSQL database cwhich stores "Documents" in "collections" (Instead of "Records" in "tables" as in SQL)
 E - Express - A Node Framework which simplifies writing Server-side code and logic. 
 R - React JS - Client side (browser) library which allows you to build highly reactive user interactions 
