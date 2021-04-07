@@ -1,6 +1,6 @@
 MERN 
 
-Course provided by ACADEMIND 
+Course provided by ACADEMIND - https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide/
 
 M - Mongo DB - NOSQL database cwhich stores "Documents" in "collections" (Instead of "Records" in "tables" as in SQL)
 E - Express - A Node Framework which simplifies writing Server-side code and logic. 
