@@ -11,7 +11,7 @@ const USERS = [
     }
 ];
 
-    return <UsersList items={USERS}/>
+    return <UsersList items={USERS}/>  // users
 }
 
 export default Users;
